@@ -1,0 +1,17 @@
+{
+  "name": "midi_player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mariuszkalinski/midi_player.git",
+  "author": "mariuszkalinskiifm <maniek.kalinski@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}
